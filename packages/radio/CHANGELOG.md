@@ -1,5 +1,16 @@
 # Change Log
 
+## 1.3.11
+
+### Patch Changes
+
+- Updated dependencies
+  [[`c06d242c6`](https://github.com/chakra-ui/chakra-ui/commit/c06d242c672a10f93fab4dc2321143beae2db669)]:
+  - @chakra-ui/utils@1.8.3
+  - @chakra-ui/form-control@1.4.2
+  - @chakra-ui/hooks@1.6.1
+  - @chakra-ui/visually-hidden@1.0.15
+
 ## 1.3.10
 
 ### Patch Changes
