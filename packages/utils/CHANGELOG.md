@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.8.3
+
+### Patch Changes
+
+- [`c06d242c6`](https://github.com/chakra-ui/chakra-ui/commit/c06d242c672a10f93fab4dc2321143beae2db669)
+  [#4795](https://github.com/chakra-ui/chakra-ui/pull/4795) Thanks
+  [@Toxiapo](https://github.com/Toxiapo)! - Fixed iframe bug on firefox when
+  using `getRelatedTarget` function
+
 ## 1.8.2
 
 ### Patch Changes
